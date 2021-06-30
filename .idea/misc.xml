@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="$PROJECT_DIR$/Automation/MobileAppAutomation/README.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="knitRootDirectory" value="$PROJECT_DIR$/Automation/MobileAppAutomation" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Automation/WebAutomation/README.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="knitRootDirectory" value="$PROJECT_DIR$/Automation/WebAutomation" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Automation/WebAutomation/Readme.rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="knitRootDirectory" value="$PROJECT_DIR$/Automation/WebAutomation" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

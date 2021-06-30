@@ -1,0 +1,355 @@
+1624819342369	geckodriver	INFO	Listening on 127.0.0.1:43965
+1624819342371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3a064m"
+1624819342725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3a064m/search.json.mozlz4", (void 0)))
+1624819343841	Marionette	INFO	Listening on port 37833
+1624819343912	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1624819993726	geckodriver	INFO	Listening on 127.0.0.1:46587
+1624819993729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezjXHc4"
+1624819994101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezjXHc4/search.json.mozlz4", (void 0)))
+1624819995179	Marionette	INFO	Listening on port 42793
+1624819995244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624820092293	Marionette	INFO	Stopped listening on port 42793
+1625003088544	geckodriver	INFO	Listening on 127.0.0.1:50033
+1625003088546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegO7B4M"
+1625003088926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegO7B4M/search.json.mozlz4", (void 0)))
+1625003089983	Marionette	INFO	Listening on port 46381
+1625003090061	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625003181521	geckodriver	INFO	Listening on 127.0.0.1:45505
+1625003181523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJkxvBe"
+1625003181871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJkxvBe/search.json.mozlz4", (void 0)))
+1625003182971	Marionette	INFO	Listening on port 39499
+1625003183065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625003343406	Marionette	INFO	Stopped listening on port 39499
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625022562112	geckodriver	INFO	Listening on 127.0.0.1:44241
+1625022562115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel8YPbw"
+1625022562515	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel8YPbw/search.json.mozlz4", (void 0)))
+1625022563811	Marionette	INFO	Listening on port 41307
+1625022563831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625022821652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625022969028	geckodriver	INFO	Listening on 127.0.0.1:37145
+1625022969031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3FEitX"
+1625022969446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3FEitX/search.json.mozlz4", (void 0)))
+1625022970654	Marionette	INFO	Listening on port 39103
+1625022970782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625022985264	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625023401542	Marionette	INFO	Stopped listening on port 39103
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625023589522	geckodriver	INFO	Listening on 127.0.0.1:32973
+1625023589525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDS4G2h"
+1625023589954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDS4G2h/search.json.mozlz4", (void 0)))
+1625023591248	Marionette	INFO	Listening on port 33697
+1625023591348	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625024174291	geckodriver	INFO	Listening on 127.0.0.1:35971
+1625024174294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY482oQ"
+1625024174715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY482oQ/search.json.mozlz4", (void 0)))
+1625024176029	Marionette	INFO	Listening on port 44843
+1625024176140	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625024211464	geckodriver	INFO	Listening on 127.0.0.1:57493
+1625024211468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledrQ5Ko"
+1625024211911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledrQ5Ko/search.json.mozlz4", (void 0)))
+1625024213259	Marionette	INFO	Listening on port 43805
+1625024213285	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625024812402	geckodriver	INFO	Listening on 127.0.0.1:44575
+1625024812407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenp315c"
+1625024812869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenp315c/search.json.mozlz4", (void 0)))
+1625024814350	Marionette	INFO	Listening on port 42071
+1625024814443	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625024849803	geckodriver	INFO	Listening on 127.0.0.1:55721
+1625024849807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXIJY5"
+1625024850263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerXIJY5/search.json.mozlz4", (void 0)))
+1625024852006	Marionette	INFO	Listening on port 34587
+1625024852031	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625025285724	Marionette	INFO	Stopped listening on port 34587
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625025456460	geckodriver	INFO	Listening on 127.0.0.1:57925
+1625025456463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT6EyMG"
+1625025456981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT6EyMG/search.json.mozlz4", (void 0)))
+1625025458691	Marionette	INFO	Listening on port 43003
+1625025458784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625025747643	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625026625050	geckodriver	INFO	Listening on 127.0.0.1:33019
+1625026625053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6Mbwi"
+1625026625400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR6Mbwi/search.json.mozlz4", (void 0)))
+1625026626467	Marionette	INFO	Listening on port 40097
+1625026626575	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625026930585	geckodriver	INFO	Listening on 127.0.0.1:55177
+1625026930588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWD5Tb"
+1625026930930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQWD5Tb/search.json.mozlz4", (void 0)))
+1625026931988	Marionette	INFO	Listening on port 43579
+1625026932001	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625027653802	geckodriver	INFO	Listening on 127.0.0.1:59935
+1625027653805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilealW4Ih"
+1625027654150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilealW4Ih/search.json.mozlz4", (void 0)))
+1625027655239	Marionette	INFO	Listening on port 42043
+1625027655330	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625028095926	geckodriver	INFO	Listening on 127.0.0.1:58355
+1625028095929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuDUQeR"
+1625028096272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuDUQeR/search.json.mozlz4", (void 0)))
+1625028097383	Marionette	INFO	Listening on port 44545
+1625028097444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625028113051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625028465068	geckodriver	INFO	Listening on 127.0.0.1:45417
+1625028465071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuVMEvS"
+1625028465436	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuVMEvS/search.json.mozlz4", (void 0)))
+1625028466633	Marionette	INFO	Listening on port 46883
+1625028466685	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625029297409	geckodriver	INFO	Listening on 127.0.0.1:36571
+1625029297412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletbC3TC"
+1625029297751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletbC3TC/search.json.mozlz4", (void 0)))
+1625029298792	Marionette	INFO	Listening on port 42239
+1625029298824	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625030115281	geckodriver	INFO	Listening on 127.0.0.1:50507
+1625030115284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefQJ4pW"
+1625030115643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefQJ4pW/search.json.mozlz4", (void 0)))
+1625030116742	Marionette	INFO	Listening on port 33243
+1625030116826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625030452177	Marionette	INFO	Stopped listening on port 33243
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625030483989	geckodriver	INFO	Listening on 127.0.0.1:42367
+1625030483992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuVnOL3"
+1625030484356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuVnOL3/search.json.mozlz4", (void 0)))
+1625030485390	Marionette	INFO	Listening on port 43341
+1625030485407	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625030976717	geckodriver	INFO	Listening on 127.0.0.1:52845
+1625030976720	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQLYWtj"
+1625030977080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQLYWtj/search.json.mozlz4", (void 0)))
+1625030978192	Marionette	INFO	Listening on port 34649
+1625030978231	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625031295287	geckodriver	INFO	Listening on 127.0.0.1:48109
+1625031295290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKC3frp"
+1625031295653	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKC3frp/search.json.mozlz4", (void 0)))
+1625031296632	Marionette	INFO	Listening on port 37881
+1625031296702	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625031312202	geckodriver	INFO	Listening on 127.0.0.1:41303
+1625031312205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHZLuZF"
+1625031312557	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHZLuZF/search.json.mozlz4", (void 0)))
+1625031313660	Marionette	INFO	Listening on port 39945
+1625031313731	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625031393788	geckodriver	INFO	Listening on 127.0.0.1:52277
+1625031393792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJD9mbY"
+1625031394158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJD9mbY/search.json.mozlz4", (void 0)))
+1625031395279	Marionette	INFO	Listening on port 42407
+1625031395305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625031410387	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625031514195	geckodriver	INFO	Listening on 127.0.0.1:33779
+1625031514198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiqhYkd"
+1625031514542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiqhYkd/search.json.mozlz4", (void 0)))
+1625031515620	Marionette	INFO	Listening on port 37273
+1625031515719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625031668211	Marionette	INFO	Stopped listening on port 37273
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625031800084	geckodriver	INFO	Listening on 127.0.0.1:38263
+1625031800087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb2fN0s"
+1625031800428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileb2fN0s/search.json.mozlz4", (void 0)))
+1625031801576	Marionette	INFO	Listening on port 34389
+1625031801600	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625032071542	geckodriver	INFO	Listening on 127.0.0.1:51869
+1625032071545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5OvP36"
+1625032071889	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5OvP36/search.json.mozlz4", (void 0)))
+1625032072934	Marionette	INFO	Listening on port 35493
+1625032072961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625032171834	Marionette	INFO	Stopped listening on port 35493
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625032253234	geckodriver	INFO	Listening on 127.0.0.1:48235
+1625032253237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepdgcAH"
+1625032253580	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepdgcAH/search.json.mozlz4", (void 0)))
+1625032254654	Marionette	INFO	Listening on port 38079
+1625032254765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625032269859	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1625032320261	geckodriver	INFO	Listening on 127.0.0.1:39489
+1625032320264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE9pN95"
+1625032320628	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE9pN95/search.json.mozlz4", (void 0)))
+1625032321778	Marionette	INFO	Listening on port 44127
+1625032321891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625032336813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625032398288	Marionette	INFO	Stopped listening on port 44127
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625032774375	geckodriver	INFO	Listening on 127.0.0.1:58473
+1625032774378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqf9Jg6"
+1625032774806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqf9Jg6/search.json.mozlz4", (void 0)))
+1625032775904	Marionette	INFO	Listening on port 33069
+1625032775992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625032847825	Marionette	INFO	Stopped listening on port 33069
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625032916683	geckodriver	INFO	Listening on 127.0.0.1:37321
+1625032916688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV3smuk"
+1625032917036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV3smuk/search.json.mozlz4", (void 0)))
+1625032918126	Marionette	INFO	Listening on port 39205
+1625032918205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625032933099	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625033001538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
